@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cat-facts": "1.0.2",
     "lodash": "4.16.1",
     "pretty-js": "0.1.8",
     "slackbots": "0.5.2",
