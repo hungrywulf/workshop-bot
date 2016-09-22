@@ -17,4 +17,4 @@ If you're interested in contributing to it, documentation on the API is availabl
 
 ## License
 --------
-MIT - See LICENSE file on root for more details.
+MIT - See [LICENSE](https://github.com/McNeeseACM/workshop-bot/blob/master/LICENSE) file for more details.
